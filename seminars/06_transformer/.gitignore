@@ -1,0 +1,4 @@
+!/data/
+/data/*
+!/data/train.tsv
+!/data/test.tsv
